@@ -1,0 +1,41 @@
+h1{
+    color: #30d5c8;
+    background-color:#fff000;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: #d3d3d3;
+}
+.fb{
+    background-color: #afe;
+    display: flex;
+    justify-content: flex-end;  
+}
+.fb img{
+    margin-left: 50px;
+    padding-right: 100px;
+}
+.fb a{
+    margin-left: 100px;
+    padding-right: 100px;
+}
+.ig{
+    background-color: #db7093;
+    display: flex;
+    justify-content: flex-end;  
+}
+.ig img{
+    margin-left: 50px;
+    padding-right: 100px;
+}
+.ig a{
+    margin-left: 100px;
+    padding-right: 100px;
+}
+.yt{
+    background-color:#ff6347;
+    display: flex;
+    justify-content: flex-start;  
+
+}
